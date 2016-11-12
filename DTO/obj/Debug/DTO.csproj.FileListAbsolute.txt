@@ -1,0 +1,8 @@
+C:\Users\dau-da\Desktop\QuanLyTruongHoc\DTO\bin\Debug\DTO.dll
+C:\Users\dau-da\Desktop\QuanLyTruongHoc\DTO\bin\Debug\DTO.pdb
+C:\Users\dau-da\Desktop\QuanLyTruongHoc\DTO\obj\Debug\DTO.dll
+C:\Users\dau-da\Desktop\QuanLyTruongHoc\DTO\obj\Debug\DTO.pdb
+C:\Users\dau-da\Documents\GitHub\QuanLyTruongHoc\DTO\bin\Debug\DTO.dll
+C:\Users\dau-da\Documents\GitHub\QuanLyTruongHoc\DTO\bin\Debug\DTO.pdb
+C:\Users\dau-da\Documents\GitHub\QuanLyTruongHoc\DTO\obj\Debug\DTO.dll
+C:\Users\dau-da\Documents\GitHub\QuanLyTruongHoc\DTO\obj\Debug\DTO.pdb

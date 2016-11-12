@@ -1,0 +1,14 @@
+C:\Users\dau-da\Desktop\QuanLyTruongHoc\DAO\bin\Debug\DAO.dll
+C:\Users\dau-da\Desktop\QuanLyTruongHoc\DAO\bin\Debug\DAO.pdb
+C:\Users\dau-da\Desktop\QuanLyTruongHoc\DAO\bin\Debug\DTO.dll
+C:\Users\dau-da\Desktop\QuanLyTruongHoc\DAO\bin\Debug\DTO.pdb
+C:\Users\dau-da\Desktop\QuanLyTruongHoc\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+C:\Users\dau-da\Desktop\QuanLyTruongHoc\DAO\obj\Debug\DAO.dll
+C:\Users\dau-da\Desktop\QuanLyTruongHoc\DAO\obj\Debug\DAO.pdb
+C:\Users\dau-da\Documents\GitHub\QuanLyTruongHoc\DAO\bin\Debug\DAO.dll
+C:\Users\dau-da\Documents\GitHub\QuanLyTruongHoc\DAO\bin\Debug\DAO.pdb
+C:\Users\dau-da\Documents\GitHub\QuanLyTruongHoc\DAO\bin\Debug\DTO.dll
+C:\Users\dau-da\Documents\GitHub\QuanLyTruongHoc\DAO\bin\Debug\DTO.pdb
+C:\Users\dau-da\Documents\GitHub\QuanLyTruongHoc\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+C:\Users\dau-da\Documents\GitHub\QuanLyTruongHoc\DAO\obj\Debug\DAO.dll
+C:\Users\dau-da\Documents\GitHub\QuanLyTruongHoc\DAO\obj\Debug\DAO.pdb
